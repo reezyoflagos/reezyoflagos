@@ -2,7 +2,7 @@
 
 # read.me
 # 💫 About Me:
-👨🏿‍💻 Hi 👋🏽 I'm  Reezywise<br>🧑🏿‍💼 I'm a full-stack developer. I code in Javascript.☘️<br>🐾 I look foward to Collaborations.<br>🦾 I'm also available for jobs related to full-stack Development.<br>🤙🏿 you can reach me at this website. https://linktr.ee/reezywise
+👨🏿‍💻 Hi 👋🏽 I'm  Reezywise<br>🧑🏿‍💼 I'm a front-end developer. I code in Javascript.☘️<br>🐾 I look foward to Collaborations.<br>🦾 I'm also available for jobs related to full-stack Development.<br>🤙🏿 you can reach me at this website. https://linktr.ee/reezywise
 
 
 ## 🌐 Socials:
